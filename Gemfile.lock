@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    faraday (0.8.8)
+      multipart-post (~> 1.2.0)
+    multipart-post (1.2.0)
+    table_print (1.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  active_support
+  faraday
+  table_print
